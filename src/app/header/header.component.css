@@ -1,0 +1,11 @@
+nav {
+  background: #c75b7a;
+}
+li a {
+  color: white;
+}
+button {
+  margin: 0 2px;
+  width: 75px;
+  border-color: #921a40;
+}
